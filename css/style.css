@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+#casos,
+#mortes,
+#curados,
+#suspeitos {
+  color: lightcoral;
+}
+
+p {
+  color: gray;
+}
